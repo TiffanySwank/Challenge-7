@@ -1,0 +1,23 @@
+{
+    "name": "README-Generator",
+    "version": "1.0.0",
+    "description": "Generate quality READMEs for open source projects on GitHub.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/markmcdnyu/README-Generator.git"
+    },
+    "keywords": ["README", "Generator", "GitHub"],
+    "author": "Your Name",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/markmcdnyu/README-Generator/issues"
+    },
+    "homepage": "https://github.com/markmcdnyu/README-Generator#readme",
+    "dependencies": {
+      "inquirer": "^7.2.0"
+    }
+}
